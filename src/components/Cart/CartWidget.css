@@ -1,0 +1,17 @@
+
+
+
+.cart-number {
+    
+    background-color: red;
+    border-radius: 50%;
+    height: auto;
+    width: 24px;
+    text-align: center;
+    margin: auto;
+}
+
+.cart-image{
+    color: white;
+    gap: 5px;
+}
